@@ -11,7 +11,7 @@ My name is **Moses Macharia**, and today I will be walking you through the insig
 
 ## Agenda
 
-1. Recap the project and its goals — to give you a high-level understanding of the business questions I set out to answer.
+1. Recap the project and its goals to give you a high-level understanding of the business questions I set out to answer.
 2. Introduce the specific problems I focused on and why they matter in today’s job market.
 3. Highlight the tools and processes used in approaching this project.
 4. Walk through key findings using visualizations and data-driven insights.
@@ -74,7 +74,7 @@ Reviewed the dataset structure and identified key fields such as:
 ### 3. Data Modeling
 
 - Consolidated inconsistent job schedule types
-- Transformed list-like fields into proper dimensions (e.g., exploding skills)
+- Transformed list-like fields into proper dimensions e.g exploding skills
 
 ### 4. Exploratory Data Analysis (EDA)
 
@@ -157,19 +157,19 @@ Reviewed the dataset structure and identified key fields such as:
 - **Data Analyst roles** are highly in demand across platforms and countries
 - **Python, SQL, and Excel** are must-have skills
 - **Contractor positions** offer the highest hourly pay on average
-- Many jobs **do not require degrees** — supporting the trend toward skills > credentials
+- Many jobs **do not require degrees**  supporting the trend toward skills over traditional qualifications
 
 ### These insights can be used by:
 
-- **Job Seekers** – to target relevant roles and improve employability
-- **Educators & Career Advisors** – to align curricula with real-world demand
-- 🏢 **Employers** – to benchmark salary bands and stay competitive in hiring
+- **Job Seekers** to target relevant roles and improve employability
+- **Educators & Career Advisors** to align curricula with real-world demand
+- 🏢 **Employers** to benchmark salary bands and stay competitive in hiring
 
 ---
 
 ## Closing
 
 Thank you very much for your time.  
-I hope these insights gave you a deeper understanding of the current job market in data-related fields — and how analytics can inform smarter hiring, training, and job search strategies.
+I hope these insights gave you a deeper understanding of the current job market in data-related fields and how analytics can inform smarter hiring, training, and job search strategies.
 
 **Please feel free to ask any questions or share your feedback.**
